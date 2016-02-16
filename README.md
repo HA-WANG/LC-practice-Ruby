@@ -5,3 +5,10 @@
 
 #### Medium
 * ...
+
+## Combinations and Permutations
+#### Easy
+* 46. Permutations
+
+#### Medium
+* ...

@@ -4,8 +4,8 @@ def length_of_last_word(s)
 end
 
 s = "Hello World"
-print "Input -> ", s ,"\n"
-print"length of last words -> ", length_of_last_word(s) ,"\n"
+print "Input -> " + s + "\n"
+print "length of last words -> ", length_of_last_word(s) ,"\n"
 
 =begin
 https://leetcode.com/problems/length-of-last-word/
