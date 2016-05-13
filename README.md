@@ -6,6 +6,7 @@
 * 014. [Longest Common Prefix][s014]
 * 046. [Permutations][s046]
 * 058. [Length of Last Word][s058]
+* 066. [Plus_One][s066]
 
 [s001]:Problems/Two_Sum.rb
 [s003]:Problems/Longest_Substring_Without_Repeating_Characters.rb
@@ -14,3 +15,4 @@
 [s014]:Problems/Longest_Common_Prefix.rb
 [s046]:Problems/Permutations.rb
 [s058]:Problems/Length_of_Last_Word.rb
+[s066]:Problems/Plus_One.rb
