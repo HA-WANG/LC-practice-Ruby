@@ -7,6 +7,7 @@
 * 020. [Valid_Parentheses][s020]
 * 026. [Remove Duplicates from Sorted Array][s026]
 * 027. [Remove Element][s027]
+* 028. [Implement strStr()][s028]
 * 046. [Permutations][s046]
 * 058. [Length of Last Word][s058]
 * 066. [Plus_One][s066]
@@ -19,6 +20,7 @@
 [s020]:Problems/Valid_Parentheses.rb
 [s026]:Problems/Remove_Duplicates_from_Sorted_Array.rb
 [s027]:Problems/Remove_Element.rb
+[s028]:Problems/Implement_strStr.rb
 [s046]:Problems/Permutations.rb
 [s058]:Problems/Length_of_Last_Word.rb
 [s066]:Problems/Plus_One.rb
