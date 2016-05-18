@@ -10,6 +10,7 @@
 * 028. [Implement strStr()][s028]
 * 035. [Search Insert Position][s035]
 * 038. [Count and Say][s038]
+* 043. [Multiply Strings][s043]
 * 046. [Permutations][s046]
 * 058. [Length of Last Word][s058]
 * 066. [Plus_One][s066]
@@ -25,6 +26,7 @@
 [s028]:Problems/Implement_strStr.rb
 [s035]:Problems/Search_Insert_Postiotn.rb
 [s038]:Problems/Count_and_Say.rb
+[s043]:Problems/Multiply_String.rb
 [s046]:Problems/Permutations.rb
 [s058]:Problems/Length_of_Last_Word.rb
 [s066]:Problems/Plus_One.rb
