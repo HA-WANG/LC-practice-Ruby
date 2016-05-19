@@ -18,6 +18,7 @@
 * 175. [Combine Two Tables][s175] [SQL]
 * 176. [Second Highest Salary][s176] [SQL]
 * 181. [Employees Earning More Than Their Managers][s181] [SQL]
+* 182. [Duplicate Emails][s182][SQL]
 
 [s001]:Problems/Two_Sum.rb
 [s003]:Problems/Longest_Substring_Without_Repeating_Characters.rb
@@ -38,3 +39,4 @@
 [s175]:Problems/Combine_Two_Tables.sql
 [s176]:Problems/Second_Highest_Salary.sql
 [s181]:Problems/Employees_Earning_More_Than_Their_Managers.sql
+[s182]:Problems/Duplicate_Emails.sql
