@@ -16,6 +16,7 @@
 * 058. [Length of Last Word][s058]
 * 066. [Plus_One][s066]
 * 175. [Combine Two Tables][s175] [SQL]
+* 176. [Second Highest Salary][s176] [SQL]
 
 [s001]:Problems/Two_Sum.rb
 [s003]:Problems/Longest_Substring_Without_Repeating_Characters.rb
@@ -34,3 +35,4 @@
 [s058]:Problems/Length_of_Last_Word.rb
 [s066]:Problems/Plus_One.rb
 [s175]:Problems/Combine_Two_Tables.sql
+[s176]:Problems/Second_Highest_Salary.sql
