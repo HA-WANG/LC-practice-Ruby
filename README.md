@@ -22,6 +22,7 @@
 * 183. [Customers Who Never Order][s183] [SQL]
 * 184. [Department Highest Salary][s184] [SQL]
 * 196. [Delete Duplicate Emails][s196] [SQL]
+* 197. [Rising Temperature][s197] [SQL]
 
 [s001]:Problems/Two_Sum.rb
 [s003]:Problems/Longest_Substring_Without_Repeating_Characters.rb
@@ -46,3 +47,4 @@
 [s183]:Problems/Customers_Who_Never_Order.sql
 [s184]:Problems/Department_Highest_Salary.sql
 [s196]:Problems/Delete_Duplicate_Emails.sql
+[s197]:Problems/Rising_Temperature.sql
