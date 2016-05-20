@@ -19,8 +19,9 @@
 * 176. [Second Highest Salary][s176] [SQL]
 * 181. [Employees Earning More Than Their Managers][s181] [SQL]
 * 182. [Duplicate Emails][s182] [SQL]
-* 183. [Customers Who Never Order][S183] [SQL]
+* 183. [Customers Who Never Order][s183] [SQL]
 * 184. [Department Highest Salary][s184] [SQL]
+* 196. [Delete Duplicate Emails][s196] [SQL]
 
 [s001]:Problems/Two_Sum.rb
 [s003]:Problems/Longest_Substring_Without_Repeating_Characters.rb
@@ -42,5 +43,6 @@
 [s176]:Problems/Second_Highest_Salary.sql
 [s181]:Problems/Employees_Earning_More_Than_Their_Managers.sql
 [s182]:Problems/Duplicate_Emails.sql
-[S183]:Problems/Customers_Who_Never_Order.sql
-[S184]:Problems/Department_Highest_Salary.sql
+[s183]:Problems/Customers_Who_Never_Order.sql
+[s184]:Problems/Department_Highest_Salary.sql
+[s196]:Problems/Delete_Duplicate_Emails.sql
