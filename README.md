@@ -15,6 +15,7 @@
 * 046. [Permutations][s046]
 * 058. [Length of Last Word][s058]
 * 066. [Plus_One][s066]
+* 067. [Add Binary][s067]
 * 175. [Combine Two Tables][s175] [SQL]
 * 176. [Second Highest Salary][s176] [SQL]
 * 181. [Employees Earning More Than Their Managers][s181] [SQL]
@@ -40,6 +41,7 @@
 [s046]:Problems/Permutations.rb
 [s058]:Problems/Length_of_Last_Word.rb
 [s066]:Problems/Plus_One.rb
+[s067]:Problems/Add_Binary.rb
 [s175]:Problems/Combine_Two_Tables.sql
 [s176]:Problems/Second_Highest_Salary.sql
 [s181]:Problems/Employees_Earning_More_Than_Their_Managers.sql
