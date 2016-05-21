@@ -19,6 +19,7 @@
 * 069. [Sqrt(x)][s069]
 * 070. [Climbings Stairs][s070]
 * 074. [Search a 2D Matrix][s074]
+* 077. [Combinations][s077]
 * 175. [Combine Two Tables][s175] [SQL]
 * 176. [Second Highest Salary][s176] [SQL]
 * 181. [Employees Earning More Than Their Managers][s181] [SQL]
@@ -48,6 +49,7 @@
 [s069]:Problems/Sqrt.rb
 [s070]:Problems/Climbing_Stairs.rb
 [s074]:Problems/Search_a_2D_Matrix.rb
+[s077]:Problems/Combinations.rb
 [s175]:Problems/Combine_Two_Tables.sql
 [s176]:Problems/Second_Highest_Salary.sql
 [s181]:Problems/Employees_Earning_More_Than_Their_Managers.sql
