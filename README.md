@@ -21,6 +21,7 @@
 * 074. [Search a 2D Matrix][s074]
 * 075. [Sort Colors][s075]
 * 077. [Combinations][s077]
+* 080. [Remove Duplicates from Sorted Array II][s080]
 * 175. [Combine Two Tables][s175] [SQL]
 * 176. [Second Highest Salary][s176] [SQL]
 * 181. [Employees Earning More Than Their Managers][s181] [SQL]
@@ -52,6 +53,7 @@
 [s074]:Problems/Search_a_2D_Matrix.rb
 [s075]:Problems/Sort_Colors.rb
 [s077]:Problems/Combinations.rb
+[s080]:Problems/Remove_Duplicates_from_Sorted_Array_II.rb
 [s175]:Problems/Combine_Two_Tables.sql
 [s176]:Problems/Second_Highest_Salary.sql
 [s181]:Problems/Employees_Earning_More_Than_Their_Managers.sql
