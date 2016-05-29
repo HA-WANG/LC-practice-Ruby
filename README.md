@@ -24,6 +24,7 @@
 * 080. [Remove Duplicates from Sorted Array II][s080]
 * 088. [Merge Sorted Array][s088]
 * 104. [Maximum Depth of Binary Tree][s104]
+* 125. [Valid Palindrome][s125]
 * 153. [Find Minimum in Rotated Sorted Array][s153]
 * 175. [Combine Two Tables][s175] [SQL]
 * 176. [Second Highest Salary][s176] [SQL]
@@ -59,6 +60,7 @@
 [s080]:Problems/Remove_Duplicates_from_Sorted_Array_II.rb
 [s088]:Problems/Merge_Sorted_Array.rb
 [s104]:Problems/Maximum_Depth_of_Binary_Tree.rb
+[s125]:Problems/Valid_Palindrome.rb
 [s153]:Problems/Find_Minimum_in_Rotated_Sorted_Array.rb
 [s175]:Problems/Combine_Two_Tables.sql
 [s176]:Problems/Second_Highest_Salary.sql
