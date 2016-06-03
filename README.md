@@ -36,6 +36,7 @@
 * 196. [Delete Duplicate Emails][s196] [SQL]
 * 197. [Rising Temperature][s197] [SQL]
 * 205. [Isomorphic Strings][s205]
+* 217. [Contains Duplicate][s217]
 
 [s001]:Problems/Two_Sum.rb
 [s003]:Problems/Longest_Substring_Without_Repeating_Characters.rb
@@ -74,3 +75,4 @@
 [s196]:Problems/Delete_Duplicate_Emails.sql
 [s197]:Problems/Rising_Temperature.sql
 [s205]:Problems/Isomorphic_Strings.rb
+[s217]:Problems/Contains_Duplicate.rb
