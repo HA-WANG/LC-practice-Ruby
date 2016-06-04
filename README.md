@@ -38,6 +38,7 @@
 * 205. [Isomorphic Strings][s205]
 * 217. [Contains Duplicate][s217]
 * 219. [Contains Duplicate II][s219]
+* 242. [Valid Anagram][s242]
 
 [s001]:Problems/Two_Sum.rb
 [s003]:Problems/Longest_Substring_Without_Repeating_Characters.rb
@@ -78,3 +79,4 @@
 [s205]:Problems/Isomorphic_Strings.rb
 [s217]:Problems/Contains_Duplicate.rb
 [s219]:Problems/Contains_Duplicate_II.rb
+[s242]:Problems/Valid_Anagram.rb
