@@ -40,6 +40,7 @@
 * 219. [Contains Duplicate II][s219]
 * 228. [Summary Ranges][s228]
 * 242. [Valid Anagram][s242]
+* 290. [Word Psattern][s290]
 
 [s001]:Problems/Two_Sum.rb
 [s003]:Problems/Longest_Substring_Without_Repeating_Characters.rb
@@ -82,3 +83,4 @@
 [s219]:Problems/Contains_Duplicate_II.rb
 [s228]:Problems/Summary_Ranges.rb
 [s242]:Problems/Valid_Anagram.rb
+[s290]:Problems/Word_Pattern.rb
