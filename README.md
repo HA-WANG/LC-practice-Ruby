@@ -8,6 +8,7 @@
 * 026. [Remove Duplicates from Sorted Array][s026]
 * 027. [Remove Element][s027]
 * 028. [Implement strStr()][s028]
+* 034. [Search for a Range][s034]
 * 035. [Search Insert Position][s035]
 * 038. [Count and Say][s038]
 * 041. [First Missing Positive][s041]
@@ -51,6 +52,7 @@
 [s026]:Problems/Remove_Duplicates_from_Sorted_Array.rb
 [s027]:Problems/Remove_Element.rb
 [s028]:Problems/Implement_strStr.rb
+[s034]:Problems/Search_for_a_Range.rb
 [s035]:Problems/Search_Insert_Postiotn.rb
 [s038]:Problems/Count_and_Say.rb
 [s041]:Problems/First_Missing_Positive.rb
